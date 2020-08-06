@@ -1,3 +1,3 @@
 # Coding-Workshops
 
-[Presentaion link](jsworkshop.surge.sh)
+[Presentaion link](http://jsworkshop.surge.sh/#/)
