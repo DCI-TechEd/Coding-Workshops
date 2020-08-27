@@ -1,16 +1,17 @@
-/**
- * Example 1 
- * 
- * Create object and modify its properties
- * 
- */
+ console.log("Hello form external JavaScript file"); 
 
-let myObject;
+// REMEMBER:  In order the file index.js to be executed we need to add script reference in the Html file,
 
-myObject = {
-  a: 10,
-  b: "abc"
+// How to access objects in JS 
+
+// Code snippets
+
+const myCity = {
+  city: "New York"
 };
-console.log(myObject);
+myCity.city = "Las vegas";
 
+console.log(myCity);
+
+// 
 
