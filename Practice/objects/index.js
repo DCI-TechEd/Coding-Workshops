@@ -1,4 +1,4 @@
- console.log("Hello form external JavaScript file"); 
+console.log("Hello form external JavaScript file");
 
 // REMEMBER:  In order the file index.js to be executed we need to add script reference in the Html file,
 
@@ -15,3 +15,11 @@ console.log(myCity);
 
 // 
 
+const myCity = {
+  city: "New York",
+  popular: true,
+  country: "USA"
+};
+console.log(myCity.city);
+
+console.log(myCity.popular);
