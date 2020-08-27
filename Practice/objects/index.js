@@ -4,7 +4,7 @@ console.log("Hello form external JavaScript file");
 
 // How to access objects in JS 
 
-// Code snippets
+// Code snippets - Slide One
 
 const myCity = {
   city: "New York"
@@ -13,7 +13,7 @@ myCity.city = "Las vegas";
 
 console.log(myCity);
 
-// 
+// Code Snippet Slide 2
 
 const myCity = {
   city: "New York",
